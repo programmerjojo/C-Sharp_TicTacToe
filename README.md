@@ -10,6 +10,6 @@ How Game Works...
 </ul>
 
 <p align="center">
-  <img src="https://github.com/programmerjojo/c-sharp_TicTacToe/TicTacJoe_JoelTaame/screenshots/tic1.PNG" width="350">
-  <img src="https://github.com/programmerjojo/c-sharp_TicTacToe/TicTacJoe_JoelTaame/screenshots/Capture.PNG" width="350">
+  <img src="https://github.com/programmerjojo/c-sharp_TicTacToe/blob/master/TicTacJoe_JoelTaame/screenshots/Capture.PNG" width="350">
+  <img src="https://github.com/programmerjojo/c-sharp_TicTacToe/blob/master/TicTacJoe_JoelTaame/screenshots/Capture.PNG" width="350">
 </p>
